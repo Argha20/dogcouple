@@ -1,0 +1,131 @@
+#title{
+    background-color: #ff4c60;
+    color: white;
+}
+.container-fluid{
+    padding: 5% 15%;
+}
+.col-lg-6{
+    flex: 0 0 50%;
+    max-width: 50%;
+}
+.title-image{
+    height: 95%; 
+    width: 60%;
+    transform: rotate(20deg);
+    padding: 1.2rem 0;
+}
+.nav-item{
+    padding: 5px;
+}
+.navbar {
+    padding: 0 0 4.5rem 0 !important;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.2rem;
+}
+.navbar-brand{
+    font-family: "ubuntu";
+    font-size: 2.5rem !important;
+    font-weight: bold;
+}
+h1{
+    font-family: 'Montserrat-Black', sans-serif;
+    font-weight: 900 !important;
+    font-size: 3.2rem !important;
+    line-height: 1.5 !important;
+}
+.btn{
+    padding: 0.5rem 1rem !important;
+    font-size: 1.25rem !important;
+    line-height: 1.5 !important;
+    border-radius: 0.3rem;
+}
+.download-button{
+    margin: 5% 3% 5% 0;
+}
+
+.fa-brands{
+    padding: 0 10px;
+}
+.fa-solid{
+    color: #ef8172;
+    padding: 7%;
+}
+.fa-solid:hover{
+    color: #ff4c60;
+}
+#features{
+    padding: 7% 15%;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder !important;
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center !important;
+    color: gray;
+    padding: 0 20px 0 20px !important;
+}
+#testimonials{
+    background-color: #ef8172;
+}
+.carousel-item{
+    text-align: center;
+    
+}
+h2{ 
+    font-family: 'Montserrat', sans-serif !important;
+    font-weight: bolder !important;
+    line-height: 1.5 !important;
+    font-size: 1.8rem !important;
+}
+.carousel-item{
+    padding: 7% 15%;
+    color: #ffff  !important;
+}
+.testimonial-img{
+    border-radius: 100% !important;
+    width: 25% !important;
+    padding: 25px !important;
+}
+#press{
+    background-color: #ef8172;
+    text-align: center;
+}
+.press-img{
+   width: 11%;
+   margin: 20px 20px 50px;
+}
+#pricing{
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.pricing-button{
+    padding: 5px 140px 5px 140px !important;
+    color: cornflowerblue !important;
+}
+.card{
+    margin: 25px 0 25px 0 !important;
+}
+#cta{
+    text-align: center;
+    background-color: #F9B5D0 !important;
+    padding: 80px 0 80px 0;
+}
+.cta-header{
+    padding-bottom: 65px;
+    font-family: 'Sacramento', cursive;
+    font-size: 3rem;
+    color: #0002A1;
+}
+.cta-button{
+    margin-left: 365px !important ;
+    padding: 0 150px 0 150px !important;
+}
+#footer{
+    background-color: #F9B5D0;
+    padding-bottom: 25px;
+}
